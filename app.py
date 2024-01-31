@@ -10,7 +10,7 @@ import textwrap
 import webbrowser
 
 # Set up the Generative AI configuration with the API key
-configure(api_key='AIzaSyBOc7WOykXVHvnU-GsMgCYZwoBqFERjQFI')
+configure(api_key='Your Google AI API key')
 
 # Function to convert plain text to Markdown format
 def to_markdown(text):
